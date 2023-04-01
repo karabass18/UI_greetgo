@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3964a702-9a90-409c-9c20-9935f936b2d4" name="Changes" comment="added tests">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/Allure1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/Allure1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/Allure2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/Allure2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/Allure3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/Allure3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/Jenkins.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/Jenkins.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/allure-video.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/allure-video.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/jira.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/telegram.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/img/telegram.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/testops1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/testops2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/img/testops3.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +81,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/IdeaProjects/UI_greetgo/media/logo",
+    "last_opened_file_path": "C:/IdeaProjects/UI_greetgo/media/img",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -79,6 +89,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IdeaProjects\UI_greetgo\media\img" />
       <recent name="C:\IdeaProjects\UI_greetgo\media\logo" />
       <recent name="C:\IdeaProjects\UI_greetgo" />
       <recent name="C:\IdeaProjects\UI_greetgo\src\test\java" />
@@ -191,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680362775649</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added tests">
+      <created>1680365869594</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680365869594</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
