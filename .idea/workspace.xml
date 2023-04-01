@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3964a702-9a90-409c-9c20-9935f936b2d4" name="Changes" comment="added tests" />
+    <list default="true" id="3964a702-9a90-409c-9c20-9935f936b2d4" name="Changes" comment="added tests">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +71,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/IdeaProjects/UI_greetgo",
+    "last_opened_file_path": "C:/IdeaProjects/UI_greetgo/media/logo",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -77,6 +79,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IdeaProjects\UI_greetgo\media\logo" />
       <recent name="C:\IdeaProjects\UI_greetgo" />
       <recent name="C:\IdeaProjects\UI_greetgo\src\test\java" />
     </key>
@@ -181,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680362453180</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added tests">
+      <created>1680362775649</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680362775649</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
