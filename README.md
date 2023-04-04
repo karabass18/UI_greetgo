@@ -1,5 +1,5 @@
 ![logo](media/logo/logo.jpg)
-## Проект по тестированию сайта NASA (https://greetgo.ru)
+## Проект по тестированию сайта **greetgo.ru** (https://greetgo.ru)
 
 ## Содержание:
 
